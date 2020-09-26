@@ -1,0 +1,21 @@
+{
+  "name": "rasptron",
+  "version": "1.0.0",
+  "description": "RASPTron is the Discord Bot used on the RASCRY Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RASCRY/RASPTron.git"
+  },
+  "author": "RASCRY Foundation Limited P.T.C.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RASCRY/RASPTron/issues"
+  },
+  "homepage": "https://github.com/RASCRY/RASPTron#readme"
+}
